@@ -1,0 +1,40 @@
+{
+  "name": "miezaru-app",
+  "version": "1.0.0",
+  "description": "Miezaru | Artem Usatyi - main website",
+  "main": "index.html",
+  "scripts": {
+    "gulp:watch": "gulp watch"
+  },
+  "author": "Artem Usatyi",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.29.3",
+    "cssnano": "^6.0.1",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-notify": "^4.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sharp-responsive": "^0.4.1",
+    "mqpacker": "^7.0.0",
+    "postcss": "^8.4.27",
+    "prettier": "^3.0.1",
+    "sass": "^1.64.2",
+    "sharp": "^0.32.4",
+    "sort-css-media-queries": "^2.2.0",
+    "stylelint": "^15.10.2",
+    "stylelint-config-recess-order": "^4.3.0",
+    "stylelint-config-standard": "^34.0.0",
+    "stylelint-config-standard-scss": "^10.0.0",
+    "stylelint-prettier": "^4.0.2",
+    "stylelint-scss": "^5.0.1"
+  }
+}
